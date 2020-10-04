@@ -4,7 +4,7 @@ var firebug = {
   env:{ 
     "cache":{},
     "extConsole":null,
-    "css":"http://getfirebug.com/releases/lite/1.2/firebug-lite.css", 
+    "css":"https://fraigo.github.io/firebug-lite/firebug-lite.css", 
     "debug":true,
     "detectFirebug":false,
     "dIndex":"console", 
